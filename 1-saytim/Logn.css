@@ -1,0 +1,212 @@
+* {
+   text-decoration: none;
+   list-style: none;
+
+}
+
+.Projects {
+   display: flex;
+   align-items: center;
+   margin-left: 50px;
+   margin-top: -120px;
+
+}
+
+
+
+.medical-thrive {
+   background: rgba(250, 250, 250, 1);
+
+   margin: 0 auto;
+   padding: 0;
+
+}
+
+.navbar {
+   display: flex;
+   align-items: center;
+}
+
+.link {
+   display: flex;
+   gap: 24px;
+   margin-left: 1090px;
+   width: 220px;
+   height: 40px;
+   top: 15px;
+   left: 1164px;
+   font-size: 16px;
+   margin-top: 12px;
+
+}
+
+.link :hover {
+   color: blue;
+}
+
+.title:hover {
+   box-shadow: 4px black;
+}
+
+
+.title {
+   display: flex;
+   align-items: center;
+   background: rgba(230, 230, 230, 1);
+   gap: 24px;
+   width: 1344px;
+   height: 410px;
+   margin-left: 48px;
+}
+
+.title2 {
+   margin-left: 48px;
+}
+
+.title3 {
+   display: flex;
+
+
+
+}
+
+.title4 {
+   display: flex;
+   gap: 24px;
+   margin-left: -150px;
+   margin-top: 100px;
+   width: 1344px;
+   height: 260px;
+   
+ 
+}
+
+
+.title5 {
+   width: 432px;
+   height: 260xpx;
+   background: rgba(250, 250, 250, 1);
+
+}
+.title5 :hover{
+   
+}
+
+.title6 {
+   display: flex;
+   align-items: center;
+   margin-top: 120px;
+}
+
+.title7 {
+   display: flex;
+   justify-content: center;
+}
+
+.title8 {
+   display: flex;
+   gap: 24px;
+   margin-left: 60px;
+
+}
+.title9{
+   
+   width: 432px;
+   height: 260px;
+   background: rgba(250, 250, 250, 1); 
+}
+.title9:hover{
+   box-shadow:  0px 5px 15px rgba(0,0 , 0, 0.25);
+
+}
+.title10{
+   margin-left: 900px;
+}
+.title11{
+   margin-top: 24px;
+   gap: 12px;
+   width: 1344px;
+   height: 72px;
+   
+}
+
+}
+.logo{
+   
+   
+}
+
+
+
+.tugma :hover {
+   box-shadow:  0px 5px 15px rgba(0,0 , 0, 0.25);
+
+}
+.hero-btn{
+   width: 151px;height: 56px;
+   border: 2px solid black;
+   background-color: white;
+   margin-left: 885px;
+}
+.hero-btn:hover{
+   background-color: black;
+   color: white ;
+}
+.hero-btn2{
+   width: 151px;height: 56px;
+   background-color: white;
+   color:black ;
+}
+
+.hero-btn2:hover{
+   width: 151px;height: 56px;
+   background-color: black;
+   color: white ;
+   
+}
+.hero-btn3{
+   width: 151px;height: 56px;
+   background-color: white;
+   color:black ;
+   margin-left: 880px;
+  
+}
+
+.hero-btn3:hover{
+   width: 151px;height: 56px;
+   background-color: black;
+   color: white ;
+
+   
+}
+.hero-btn4:{
+   width: 420px;
+   height: 56px;
+   background-color:white;
+   color: black ;
+  
+  
+
+   
+}
+.hero-btn4:hover{
+   width: 420px;
+   height: 56px;
+   background-color: black;
+   color: white ;
+
+   
+}
+.hero-btn5{
+   width:1544px;
+   height: 56px;
+   gap:30px;
+   justify-content: center;
+  
+}
+.text{
+   @font-face {
+      font-family:Open size ;
+      src: url(.);
+   }
+}

@@ -1,0 +1,68 @@
+.title2 {
+   display: flex;
+   justify-content: space-between;
+   gap: 68px;
+   justify-content: center;
+
+   width: 750px;
+   margin: 30px auto;
+
+}
+
+body {
+   background-image: url(./imeg/image.png);
+   background-repeat: no-repeat;
+   display: flex;
+   justify-content: space-between;
+   gap: 20px;
+   align-items: baseline;
+   width: 700px;
+   margin-left: 120px;
+}
+
+.title {
+   width: 120px;
+   height: 90px;
+   justify-content: center;
+
+}
+
+.Game {
+   background-image: url(./imeg/bg\ image\ 3.jpg);
+   margin-left: -1200px;
+
+
+}
+
+.Game2 {
+   margin: 0 auto;
+   margin-top: -10px;
+   margin-left: 720px;
+   
+   font-size: 0px;
+   width: 540px;
+   height:876px;
+   color: black;
+}
+
+.Game3{  margin: 0 auto;
+   margin-top: -10px;
+   margin-left: 720px;
+   
+   font-size: 0px;
+   width: 540px;
+   height:876px;
+   color: black;}
+   .OS{
+      display: flex;
+   }
+   .text{
+      display: flex;
+   }
+   .head{
+      
+      display: flex;
+      gap: 60px;
+      align-items: ;
+   }
+   
